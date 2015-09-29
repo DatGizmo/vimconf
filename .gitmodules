@@ -1,0 +1,6 @@
+[submodule "bundle/bitbake"]
+	path = bundle/bitbake
+	url = https://github.com/kergoth/vim-bitbake.git
+[submodule "bundle/pydiction"]
+	path = bundle/pydiction
+	url = https://github.com/rkulla/pydiction.git
