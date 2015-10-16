@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/development/yocto-x86-fido/src/meta-dmo/recipes-multimedia/alsa/alsa-utils'
+let g:netrw_dirhist_2='/development/yocto-fido/src/meta-dmo/recipes-qt/qt5/qtmultimedia'
