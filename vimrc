@@ -13,3 +13,6 @@ colorscheme badwolf
 highlight ColorColumn ctermbg=red ctermfg=white
 au BufNewFile,BufFilePre,BufRead *.md set filetype=markdown
 
+map <C-p> :put + <CR>
+map <C-y> "+yy
+
