@@ -6,6 +6,7 @@ let g:pydiction_location = '~/.vim/bundle/pydiction/complete-dict'
 
 set background=dark
 set number
+set relativenumber
 set cc=80
 " 4 Spaces as tab and indent
 set tabstop=8 softtabstop=0 expandtab shiftwidth=4 smarttab
