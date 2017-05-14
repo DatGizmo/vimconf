@@ -4,6 +4,7 @@ call pathogen#helptags()
 filetype plugin on
 let g:pydiction_location = '~/.vim/bundle/pydiction/complete-dict'
 
+syntax on
 set background=dark
 set number
 set relativenumber
