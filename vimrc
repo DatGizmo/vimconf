@@ -6,6 +6,7 @@ let g:pydiction_location = '~/.vim/bundle/pydiction/complete-dict'
 
 syntax on
 set background=dark
+set hlsearch
 set number
 set relativenumber
 set cc=80
